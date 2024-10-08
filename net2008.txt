@@ -1,0 +1,2 @@
+Good afternoon, folks!
+This is my second attempt in using the git command.
